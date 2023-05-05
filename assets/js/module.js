@@ -1,13 +1,13 @@
 'use strict';
 
 export const weekDayNames = [
+  "Svētdiena",
   "Pirmdiena",
   "Otrdiena",
   "Trešdiena",
   "Ceturdiena",
   "Piektdiena",
-  "Sestdiena",
-  "Svētdiena"
+  "Sestdiena"
 ];
 
 export const monthNames = [
