@@ -441,8 +441,8 @@ body {
 \*-----------------------------------*/
 
 main {
-  height: calc(100vh - 80px);
-  height: calc(100svh - 80px); /* mobilajai pārlūkprogrammai */
+  height: calc(100vh - 200px);
+  height: calc(100svh - 200px); /* mobilajai pārlūkprogrammai */
   overflow: hidden;
 }
 
